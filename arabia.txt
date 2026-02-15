@@ -1,23 +1,31 @@
 Ahmed
 Ali
 Omar
-Youssef / Yusuf
-Mohamed / Muhammad
+Youssef
+Yusuf
+Mohamed
+Muhammad
 Mahmoud
 Hassan
-Hussein / Husayn
-Khaled / Khalid
+Hussein
+Husayn
+Khaled
+Khalid
 Abdel
-Abdelrahman / Abdulrahman
+Abdelrahman
+bdulrahman
 Ibrahim
-Saïd / Said
+Saïd
+Said
 Karim
-Rashid / Rashad
+Rashid
+Rashad
 Nabil
-Tariq / Tarek
+Tariq
+Tarek
 Fadi
 Samir
-Ziad / Ziyad
+ZiadZiyad
 Walid
 Mazen
 Anas
